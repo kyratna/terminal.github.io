@@ -9,9 +9,8 @@ Hey There! This is Kumar Yashoratna.
 <p> I have worked in fields like Web Development, Robotics, Computer Vision, Natural Language Processing, Data Science, FinTech and Automation. You can have a look at my <a href="http://bit.ly/cv_yashoratna"> resume</a> for details on my internships and projects.</p>
 <p>I am passionate about computers, science, technology and finance. My hobbies are book reading and photography. My favourite books are Rich Dad Poor Dad, The Secret and few others.
 </p>
-<p> You can visit my other <a href="http://bit.ly/kyratna">web portfolio</a>.
-	<br>My other profiles like:
-    <br> <a href="https://www.linkedin.com/in/kyratna/">LinkedIn</a>, <a href="https://www.instagram.com/ky.ratna"> Instagram</a>, <a href="https://github.com/kyratna"> GitHub</a> and <a href="https://www.hackerrank.com/kyratna?hr_r=1"> Hackerrank</a>.
+<p> You can visit my <a href="http://bit.ly/kyratna">web portfolio</a>.
+	<br>My other profiles like: <a href="https://www.linkedin.com/in/kyratna/">LinkedIn</a>, <a href="https://www.instagram.com/ky.ratna"> Instagram</a>, <a href="https://github.com/kyratna"> GitHub</a> and <a href="https://www.hackerrank.com/kyratna?hr_r=1"> Hackerrank</a>.
 
 Feel free to send me an email at <a href="mailto:kyashoratna9@gmail.com">kyashoratna9@gmail.com</a>.
 
